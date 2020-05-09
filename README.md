@@ -16,6 +16,7 @@ SpringCloud-创建服务消费者-Feign方式示例代码
 SpringCloud-使用熔断器防止服务雪崩-Ribbon和Feign方式示例代码
 
 ========================================================
+
 8761 clouddemo-eureka 注册中心
 
 8762 service-admin 服务提供者provider
