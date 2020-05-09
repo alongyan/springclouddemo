@@ -32,8 +32,11 @@ http://localhost:8769/api/a/hi?message=HelloZuulFromYw 请求方式ribbon
 http://localhost:8769/api/b/hi?message=HelloZuulFromYw 请求方式feign
 
 =============================================================================
+
 方式ribbon 和 方式feign 区别
+
 =============================================================================
+
 
 【方式ribbon】
     @Autowired
